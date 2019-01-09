@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-<b>Resources</b>
+<b>Links</b>
 
 Big-O Algorithm Cheat Sheet: http://bigocheatsheet.com/
 
